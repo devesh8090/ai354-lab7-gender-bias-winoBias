@@ -1,9 +1,9 @@
-# AI354 Lab Assignment 5: Probing Gender Bias in Language Models - A WinoBias Mask Prediction Study
+# AI354 Lab Assignment 7: Probing Gender Bias in Language Models - A WinoBias Mask Prediction Study
 
 ## Devesh Singh Chauhan
 ### I23MA002
 
-**Assigned on:** [Date]
+**Assigned on:** 19/02/26
 
 ---
 
