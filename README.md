@@ -56,14 +56,6 @@ Consider and study the WinoBias dataset. Use it for a mask prediction task by ma
     - Analyze and discuss which model shows less bias and why.
 
 ---
-
-## Suggested Experiment Nomenclature
-Based on the pattern in your previous assignments, a suitable name for this experiment could be:
-
-**ai354-lab5-gender-bias-probing-winoBias**
-
----
-
 ## Implementation Details
 
 ### Data Loading and Preprocessing
